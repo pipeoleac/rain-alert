@@ -7,7 +7,8 @@ import os
 from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
 
-recordar poner tus propios datos desde twillio
+RECORDAR: poner tus propios datos desde twillio
+RECORDAR: Pueden usar free proxy servers de la version FREE de pythonanywhere
 https://www.twilio.com/es-mx/
 
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
