@@ -8,6 +8,8 @@ from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
 
 RECORDAR: poner tus propios datos desde twillio
+
+
 RECORDAR: Pueden usar free proxy servers de la version FREE de pythonanywhere
 https://www.twilio.com/es-mx/
 
